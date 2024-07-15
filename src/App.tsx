@@ -10,7 +10,7 @@ function App() {
       <h1>Test Bot</h1>
 
       <div className="card">
-        <p>count is {count}</p>
+        <p>Count is {count}</p>
       </div>
 
       <div className="card">
@@ -22,7 +22,7 @@ function App() {
       </div>
 
       <p className="read-the-docs">
-        Click on the hamster logos to increase the count
+        Click on the hamster logo to increase the count
       </p>
     </>
   );
